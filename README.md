@@ -8,12 +8,6 @@
 
 Una aplicación web de streaming tipo Netflix desarrollada para demostrar la implementación de un pipeline CI/CD completamente automatizado usando AWS CodePipeline y Elastic Beanstalk.
 
-## 🚀 Demo en Vivo
-
-- **Aplicación:** [URL de tu deployment]
-- **Health Check:** [URL]/health
-- **Pipeline:** AWS CodePipeline (privado)
-
 ## 📋 Características
 
 ### 🎥 Plataforma de Streaming
